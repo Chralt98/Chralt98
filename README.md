@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋
 
 <!--
 **Chralt98/Chralt98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I build reliable web applications and technical systems with TypeScript, JavaScript, Next.js, APIs, databases, authentication, testing, and deployment workflows.
-
-My background includes full-stack software, Rust-based systems, and mechanism-driven applications such as prediction markets, AMMs, and governance-related protocols. I care about correctness, clear specifications, maintainable implementation, and practical software that supports real decision-making contexts.
+I love developing software, Rust-based systems, and mechanism-driven applications such as prediction markets, AMMs, and governance-related protocols. I care about fundamental human values like honesty, truth and trust.
 
 Alongside engineering work, I specialize in event-contract and prediction-market specification for governance and decision-coordination systems: precise outcomes, resolution criteria, edge cases, ambiguity risks, and review processes.
 
