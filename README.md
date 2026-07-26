@@ -23,14 +23,10 @@ I am especially interested in systems that help groups make better decisions, in
 
 ## Focus
 
-- Full-stack web development
-- TypeScript, JavaScript, Next.js
-- APIs, databases, authentication, testing, deployment
-- Rust-based systems
-- Prediction markets, AMMs, governance protocols
-- Event-contract specification
-- Resolution criteria and edge-case analysis
-- Decision-support and coordination systems
+- Prediction markets and governance protocols (decision-support and coordination systems)
+- Event-contract specification (resolution criteria and edge-case analysis)
+- Problem-solving using spec-driven agentic engineering and end-to-end product (user experience) design
+- Current languages I love: TypeScript, Rust, Python
 
 ## Website
 
