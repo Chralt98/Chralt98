@@ -23,10 +23,10 @@ I am especially interested in systems that help groups make better decisions, in
 
 ## Focus
 
-- Prediction markets and governance protocols (decision-support and coordination systems)
-- Event-contract specification (resolution criteria and edge-case analysis)
-- Problem-solving using spec-driven agentic engineering and end-to-end product (user experience) design
-- Current languages I love: TypeScript, Rust, Python
+- prediction markets and governance protocols (decision-support and coordination systems)
+- event contract specification (resolution criteria and edge-case analysis)
+- problem-solving using spec-driven agentic engineering and end-to-end product (user experience) design
+- languages I love: TypeScript, Rust, Python
 
 ## Website
 
