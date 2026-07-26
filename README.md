@@ -23,7 +23,8 @@ I am especially interested in systems that help groups make better decisions, in
 
 ## Focus
 
-- software for decision-support and coordination systems (DAOs and governance protocols)
+- DAOs and governance protocols
+- software for decision-support and coordination systems
 - prediction markets and event contract specification (resolution criteria and edge-case analysis)
 - problem-solving using spec-driven agentic engineering and end-to-end product (user experience) design
 - languages I love: TypeScript, Rust, Python
